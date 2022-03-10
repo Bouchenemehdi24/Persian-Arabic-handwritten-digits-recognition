@@ -1,5 +1,5 @@
 # Persian-Arabic-handwritten-digits-recognition
-The code shows is Python implentation of the paper. the results presnted in this nootebook are just for HOG features of 48 dimensions.
+The code shows is Python implentation of the paper. the results presnted in this nootebook are just for HOG features vector of 48 dimensions.
 To replicate the resuls for other parameters setting of HOG and improved HOG algorithms please read carefully the paper.
 
 ### Dataset
