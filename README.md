@@ -5,6 +5,9 @@ Bouchene, M.M., Boukharouba, A. Features extraction and reduction techniques wit
 
 
 The results presented in this nootebook  allow reproduce experimental results just for HOG features vector of 48 dimensions.To replicate the resuls for other parameters setting of HOG and improved HOG algorithms please read carefully the paper.
+
+## Code Link to Google colab
+https://colab.research.google.com/drive/1qCbO5Fa4vmDUHDwZLCUELxFwI1lDoKsO?usp=sharing#scrollTo=EUIPzzIsEqCz
 ### The paper full-text
 
 https://link.springer.com/article/10.1007/s42044-022-00106-9
