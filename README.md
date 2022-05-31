@@ -1,5 +1,5 @@
 # Persian-Arabic-handwritten-digits-recognition
-The code shows is Python implentation of the paper
+The code shows is Python implementation of the paper
 
 Bouchene, M.M., Boukharouba, A. Features extraction and reduction techniques with optimized SVM for Persian/Arabic handwritten digits recognition. Iran J Comput Sci (2022). https://doi.org/10.1007/s42044-022-00106-9
 
@@ -17,12 +17,7 @@ https://link.springer.com/epdf/10.1007/s42044-022-00106-9?sharing_token=btS_g0QD
 
 We have used HODA dataset. This dataset contains 80,000 samples, 60,000 examples for training and 20,000 examples for testing extracted from about 12000 registration forms of university entrance examination in 313 Iran, 
 
-Dataset paper:
-
 https://www.sciencedirect.com/science/article/abs/pii/S0167865507000037
-
-Dataset website:
-
 http://farsiocr.ir/
 
 ### Dependencies
