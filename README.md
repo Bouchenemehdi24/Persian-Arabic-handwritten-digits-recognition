@@ -1,5 +1,9 @@
-# Persian-Arabic-handwritten-digits-recognition
-The code shows is Python implementation of the paper
+# Features extraction and reduction techniques with optimized SVM for Persian/Arabic handwritten digits recognition
+
+Recognizing handwritten digits is one of the most active research areas in computer vision, as there are a variety of applications, such as automatic identification of digits in bank checks and vehicle numbers. In the last 3 decades, much effort has been devoted to recognizing handwritten Latin digits, while much less attention has been paid to the recognition of Persian and Arabic handwritten digits. For this reason, we will focus on the problem of recognizing Persian and Arabic handwritten numerals. We present an efficient and robust low-dimensional representation of the digit image based on an improved version of the histogram of oriented gradient (HOG) as a feature descriptor. A principal component analysis (PCA)-based dimensionality reduction strategy is also proposed to obtain a subset of features that optimizes classification accuracy. The selected sets of features were fed into a radial basis function (RBF)-based support vector machine (SVM) algorithm that performs classification, and the hyperparameters C and γ were optimized using a Bayesian optimization (BO) algorithm. Extensive experimental results with 80,000 handwritten samples of Persian/Arabic numerals show that our method outperforms the current state-of-the-art classification accuracy and computational efficiency. This trade-off between accuracy and time complexity is highly beneficial for the real-time performance of handwritten digit recognition applications.
+
+## The code
+This is Python implementation of the paper
 
 Bouchene, M.M., Boukharouba, A. Features extraction and reduction techniques with optimized SVM for Persian/Arabic handwritten digits recognition. Iran J Comput Sci (2022). https://doi.org/10.1007/s42044-022-00106-9
 
